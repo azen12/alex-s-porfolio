@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #CBFF4D;
+    text-align: center;
+  }
+
+  
+
+  h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #84DD63;
+  }
+
+  
+
+  #pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 75%;
+    width: 30%;
+    height: 30%;
+  }
+
+  h3 {
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: #6BAA75;
+  }
+
+  body {
+      background-color: #545454;
+  }
+
+  #closed {
+      display: none;
+      color: #69747C;
+      width:500px;
+      text-align: right;
+  }
+
+
+  #edu {
+    color:#00ff2a
+  }
